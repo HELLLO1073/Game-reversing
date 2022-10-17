@@ -1,0 +1,7 @@
+Simple internal multi hack for learning purposes.
+
+Aimbot            | Distance, Health, Teamid checks
+Triggerbot        | Using a simple x86 code cave hook to get the entity your looking at and presses your left mouse key when valid, forgot to add team checks to it, 
+Offline features  | God mode, Ammo, Grenade mod was just for testing purposes
+
+Creator H4#0321 with the help of the GH community.
